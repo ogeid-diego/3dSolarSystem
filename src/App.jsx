@@ -25,7 +25,7 @@ const Stars = (props) => {
 }
 
 function Sun(props) {
-  const sunTexture = useTexture("./src/assets/sun.jpg");
+  const sunTexture = useTexture("./assets/sun.jpg");
   const sunRef = useRef();
 
   useFrame(({ clock }) => {
