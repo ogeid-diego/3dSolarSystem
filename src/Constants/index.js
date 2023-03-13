@@ -65,11 +65,11 @@ export const planets = [
     sunRotSpeed: 0.0001,
     rotationSpeed: 0.004
   },
-  {
+  /* {
     size: 2.8,
     texture: "./assets/pluto.jpg",
     position: 216,
     sunRotSpeed: 0.0007,
     rotationSpeed: 0.004
-  },
+  }, */
 ]
